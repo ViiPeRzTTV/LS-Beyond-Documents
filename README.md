@@ -8,7 +8,7 @@
 
 * Welcome To LS Beyond Roleplay, A Dynamic FiveM Server With Open World Resources and Open Title Jobs, LS BeyondRP has Been Made So Your Able To Do PVP or PVE and Your Roleplay is all Within Your Control and What You Do Within Los Santos BeyondRP 
 
-- We Have 2 Citys You Have A Choice Between 
+* We Have 2 Citys You Have A Choice Between 
 
 * Server 1 - PVP and PVE - Where You Choise To Interact With Players Or Locals and Just Do Your Normal Day To Day and Have A Chilled Out Session 
 
