@@ -13,13 +13,3 @@
 * Server 1 - PVP and PVE - Where You Choise To Interact With Players Or Locals and Just Do Your Normal Day To Day and Have A Chilled Out Session 
 
 * Server 2 - PVP - Where Its an Open World RP Server With Police,EMS,Mechanics and More Optimizations That Allows You To Create RP Moments Within The City With Other Players and Own Custom Vehicles Within The City and Open Broad With What You Want To Do 
-
-## License
-
-**Los Santos Beyond Roleplay Copyright (C) 2023**
-
-This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
-
-This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
-
-You should have received a copy of the GNU General Public License along with this program. If not, see [https://www.gnu.org/licenses/](https://www.gnu.org/licenses/)
